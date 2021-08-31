@@ -8,3 +8,6 @@ gpa = 3.1
 
 is_open = true
 is_used = false
+
+student_names = ["Aaron", "James", "Sarah"]
+id_numbers = [1, 2, 3, 4]
